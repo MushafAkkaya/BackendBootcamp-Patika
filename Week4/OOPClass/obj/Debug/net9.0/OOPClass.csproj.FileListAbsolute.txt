@@ -1,0 +1,14 @@
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\bin\Debug\net9.0\OOPClass.exe
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\bin\Debug\net9.0\OOPClass.deps.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\bin\Debug\net9.0\OOPClass.runtimeconfig.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\bin\Debug\net9.0\OOPClass.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\bin\Debug\net9.0\OOPClass.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\obj\Debug\net9.0\OOPClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\obj\Debug\net9.0\OOPClass.AssemblyInfoInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\obj\Debug\net9.0\OOPClass.AssemblyInfo.cs
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\obj\Debug\net9.0\OOPClass.csproj.CoreCompileInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\obj\Debug\net9.0\OOPClass.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\obj\Debug\net9.0\refint\OOPClass.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\obj\Debug\net9.0\OOPClass.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\obj\Debug\net9.0\OOPClass.genruntimeconfig.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPClass\obj\Debug\net9.0\ref\OOPClass.dll
