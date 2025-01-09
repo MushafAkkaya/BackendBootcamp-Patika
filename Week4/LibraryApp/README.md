@@ -75,7 +75,3 @@ Tolkien  isimli yazarın 400 sayfalık İthaki yayınevi tarafından basılan Ho
 ## Contribution
 
 If you want to contribute to the project, please submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
