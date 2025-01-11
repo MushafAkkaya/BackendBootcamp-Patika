@@ -1,68 +1,39 @@
-Pratik - Inheritance
-This project is created as part of the Backend Bootcamp on Patika.dev. It demonstrates the concept of inheritance in object-oriented programming (OOP) using C#. The example involves creating a base class (BaseKisi) and extending it to form specific classes for Ogrenci (Student) and Ogretmen (Teacher).
+# InheritancePractice
 
-Project Requirements
-1. BaseKisi Class
-The BaseKisi class serves as the base class and includes:
+This project demonstrates the concept of inheritance in object-oriented programming. It includes a base class `BaseKisi` and two derived classes, `Ogrenci` (Student) and `Ogretmen` (Teacher).
 
-Properties:
-Ad (string): The first name of the person.
-Soyad (string): The last name of the person.
-Method:
-A method to print the person's full name (Ad and Soyad) to the console.
-2. Ogrenci Class
-The Ogrenci class inherits from BaseKisi and includes:
+## Classes and Properties
 
-Additional Property:
-OgrenciNumarasi (string): The student's unique number.
-Additional Method:
-A method to print the student's number along with their full name to the console.
-3. Ogretmen Class
-The Ogretmen class also inherits from BaseKisi and includes:
+### BaseKisi (BasePerson)
+- **Properties:**
+  - `Ad` (Name)
+  - `Soyad` (Surname)
+- **Methods:**
+  - A method that prints the name and surname to the console.
 
-Additional Property:
-Maas (decimal): The teacher's salary information.
-Additional Method:
-A method to print the teacher's salary along with their full name to the console.
-Key Concept:
-Methods within a class can call other methods from the same or base class to reuse functionality.
-4. Program.cs
-In the Program class:
+### Ogrenci (Student)
+- **Inherits:** `BaseKisi`
+- **Additional Properties:**
+  - `OgrenciNumarasi` (Student Number)
+- **Methods:**
+  - A method that prints the student number, name, and surname to the console.
 
-Examples of Ogrenci and Ogretmen objects are created.
-Properties of these objects are assigned values.
-Methods are used to print their details to the console.
-How to Run
-Clone the repository:
+### Ogretmen (Teacher)
+- **Inherits:** `BaseKisi`
+- **Additional Properties:**
+  - `MaasBilgisi` (Salary Information)
+- **Methods:**
+  - A method that prints the salary information, name, and surname to the console.
 
-bash
-Kodu kopyala
-git clone https://github.com/MushafAkkaya/BackendBootcamp-Patika.git  
-Navigate to the project directory:
+## Example Usage
 
-bash
-Kodu kopyala
-cd BackendBootcamp-Patika/Week4/InheritancePractice  
-Open the project in your preferred IDE.
+The program creates instances of the `Ogrenci` and `Ogretmen` classes, assigns values to their properties, and calls their methods to display the data.
 
-Build and run the project to observe the output.
 
-Example Output
-Here’s an example of what the console output might look like when running the program:
+## How It Works
+1. The `BaseKisi` class defines shared properties (`Ad` and `Soyad`) and a method (`Yazdir`) to print them.
+2. The `Ogrenci` class extends `BaseKisi` by adding a `OgrenciNumarasi` property and a method (`OgrenciBilgisiYazdir`) that uses the base class method.
+3. The `Ogretmen` class extends `BaseKisi` by adding a `MaasBilgisi` property and a method (`OgretmenBilgisiYazdir`) that also utilizes the base class method.
+4. Instances of both `Ogrenci` and `Ogretmen` are created, and their properties are initialized with sample data.
+5. Methods are called to display the details of the student and teacher.
 
-text
-Kodu kopyala
-Ad: Ali  
-Soyad: Yılmaz  
-Ogrenci Numarası: 12345  
-
-Ad: Ayşe  
-Soyad: Demir  
-Maaş: 5000  
-Key Learning Objectives
-This project helps to understand:
-
-Inheritance: Sharing common properties and methods among related classes.
-Encapsulation: Encapsulating data and methods in specific classes.
-Code Reusability: Using base class functionality in derived classes.
-Method Reuse: Calling one method from another to avoid redundancy.
