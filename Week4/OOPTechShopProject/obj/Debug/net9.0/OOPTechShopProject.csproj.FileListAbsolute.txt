@@ -1,0 +1,14 @@
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\bin\Debug\net9.0\OOPTechShopProject.exe
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\bin\Debug\net9.0\OOPTechShopProject.deps.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\bin\Debug\net9.0\OOPTechShopProject.runtimeconfig.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\bin\Debug\net9.0\OOPTechShopProject.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\bin\Debug\net9.0\OOPTechShopProject.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\obj\Debug\net9.0\OOPTechShopProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\obj\Debug\net9.0\OOPTechShopProject.AssemblyInfoInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\obj\Debug\net9.0\OOPTechShopProject.AssemblyInfo.cs
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\obj\Debug\net9.0\OOPTechShopProject.csproj.CoreCompileInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\obj\Debug\net9.0\OOPTechShopProject.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\obj\Debug\net9.0\refint\OOPTechShopProject.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\obj\Debug\net9.0\OOPTechShopProject.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\obj\Debug\net9.0\OOPTechShopProject.genruntimeconfig.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week4\OOPTechShopProject\obj\Debug\net9.0\ref\OOPTechShopProject.dll
