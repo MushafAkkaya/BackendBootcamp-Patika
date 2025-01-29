@@ -1,0 +1,14 @@
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\bin\Debug\net9.0\PatikaflixApp.exe
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\bin\Debug\net9.0\PatikaflixApp.deps.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\bin\Debug\net9.0\PatikaflixApp.runtimeconfig.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\bin\Debug\net9.0\PatikaflixApp.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\bin\Debug\net9.0\PatikaflixApp.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\obj\Debug\net9.0\PatikaflixApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\obj\Debug\net9.0\PatikaflixApp.AssemblyInfoInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\obj\Debug\net9.0\PatikaflixApp.AssemblyInfo.cs
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\obj\Debug\net9.0\PatikaflixApp.csproj.CoreCompileInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\obj\Debug\net9.0\PatikaflixApp.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\obj\Debug\net9.0\refint\PatikaflixApp.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\obj\Debug\net9.0\PatikaflixApp.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\obj\Debug\net9.0\PatikaflixApp.genruntimeconfig.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikaflixApp\obj\Debug\net9.0\ref\PatikaflixApp.dll
