@@ -1,0 +1,14 @@
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\bin\Debug\net9.0\PatikafyMusicApp.exe
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\bin\Debug\net9.0\PatikafyMusicApp.deps.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\bin\Debug\net9.0\PatikafyMusicApp.runtimeconfig.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\bin\Debug\net9.0\PatikafyMusicApp.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\bin\Debug\net9.0\PatikafyMusicApp.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\obj\Debug\net9.0\PatikafyMusicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\obj\Debug\net9.0\PatikafyMusicApp.AssemblyInfoInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\obj\Debug\net9.0\PatikafyMusicApp.AssemblyInfo.cs
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\obj\Debug\net9.0\PatikafyMusicApp.csproj.CoreCompileInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\obj\Debug\net9.0\PatikafyMusicApp.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\obj\Debug\net9.0\refint\PatikafyMusicApp.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\obj\Debug\net9.0\PatikafyMusicApp.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\obj\Debug\net9.0\PatikafyMusicApp.genruntimeconfig.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\PatikafyMusicApp\obj\Debug\net9.0\ref\PatikafyMusicApp.dll
