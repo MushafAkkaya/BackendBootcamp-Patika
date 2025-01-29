@@ -1,0 +1,14 @@
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\bin\Debug\net9.0\LinqPractice.exe
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\bin\Debug\net9.0\LinqPractice.deps.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\bin\Debug\net9.0\LinqPractice.runtimeconfig.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\bin\Debug\net9.0\LinqPractice.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\bin\Debug\net9.0\LinqPractice.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\obj\Debug\net9.0\LinqPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\obj\Debug\net9.0\LinqPractice.AssemblyInfoInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\obj\Debug\net9.0\LinqPractice.AssemblyInfo.cs
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\obj\Debug\net9.0\LinqPractice.csproj.CoreCompileInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\obj\Debug\net9.0\LinqPractice.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\obj\Debug\net9.0\refint\LinqPractice.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\obj\Debug\net9.0\LinqPractice.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\obj\Debug\net9.0\LinqPractice.genruntimeconfig.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqPractice\obj\Debug\net9.0\ref\LinqPractice.dll
