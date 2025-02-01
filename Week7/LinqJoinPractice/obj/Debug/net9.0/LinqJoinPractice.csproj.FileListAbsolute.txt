@@ -1,0 +1,14 @@
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\bin\Debug\net9.0\LinqJoinPractice.exe
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\bin\Debug\net9.0\LinqJoinPractice.deps.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\bin\Debug\net9.0\LinqJoinPractice.runtimeconfig.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\bin\Debug\net9.0\LinqJoinPractice.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\bin\Debug\net9.0\LinqJoinPractice.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\obj\Debug\net9.0\LinqJoinPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\obj\Debug\net9.0\LinqJoinPractice.AssemblyInfoInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\obj\Debug\net9.0\LinqJoinPractice.AssemblyInfo.cs
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\obj\Debug\net9.0\LinqJoinPractice.csproj.CoreCompileInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\obj\Debug\net9.0\LinqJoinPractice.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\obj\Debug\net9.0\refint\LinqJoinPractice.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\obj\Debug\net9.0\LinqJoinPractice.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\obj\Debug\net9.0\LinqJoinPractice.genruntimeconfig.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqJoinPractice\obj\Debug\net9.0\ref\LinqJoinPractice.dll
