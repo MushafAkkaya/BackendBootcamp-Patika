@@ -1,0 +1,14 @@
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\bin\Debug\net9.0\LinqGroupJoinPractice.exe
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\bin\Debug\net9.0\LinqGroupJoinPractice.deps.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\bin\Debug\net9.0\LinqGroupJoinPractice.runtimeconfig.json
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\bin\Debug\net9.0\LinqGroupJoinPractice.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\bin\Debug\net9.0\LinqGroupJoinPractice.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\obj\Debug\net9.0\LinqGroupJoinPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\obj\Debug\net9.0\LinqGroupJoinPractice.AssemblyInfoInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\obj\Debug\net9.0\LinqGroupJoinPractice.AssemblyInfo.cs
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\obj\Debug\net9.0\LinqGroupJoinPractice.csproj.CoreCompileInputs.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\obj\Debug\net9.0\LinqGroupJoinPractice.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\obj\Debug\net9.0\refint\LinqGroupJoinPractice.dll
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\obj\Debug\net9.0\LinqGroupJoinPractice.pdb
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\obj\Debug\net9.0\LinqGroupJoinPractice.genruntimeconfig.cache
+C:\Users\musha\source\repos\C#BackendBootcamp-Patika\Week7\LinqGroupJoinPractice\obj\Debug\net9.0\ref\LinqGroupJoinPractice.dll
