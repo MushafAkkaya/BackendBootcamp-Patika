@@ -10,20 +10,16 @@ namespace BasicMVCPractice.Controllers
             var customer = new Customer
             {
                 Id = 1,
-                FirstName = "Ali",
-                LastName = "Veli",
-                Email = "aliveli@gmail.com"
+                FirstName = "John",
+                LastName = "Doe",
+                Email = "john.doe@example.com"
             };
 
-            var order = new Order
+            var orders = new List<Order>
             {
-                Id = 1,
-                ProductName = "Telefon",
-                Price = 50000,
-                Quantity = 1
+                new Order { Id = 101, ProductName = "Laptop", Price = 1200, Quantity = 1 },
+                new Order { Id = 102, ProductName = "Mouse", Price = 50, Quantity = 2 }
             };
-
-            List<Order> orders = new List<Order> { order };
 
             var customerOrders = new CustomerOrderViewModel
             {
