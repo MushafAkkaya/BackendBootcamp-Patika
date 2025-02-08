@@ -1,4 +1,4 @@
-namespace BasicMVCPractice.Models
+namespace BlogApp.Models
 {
     public class ErrorViewModel
     {
