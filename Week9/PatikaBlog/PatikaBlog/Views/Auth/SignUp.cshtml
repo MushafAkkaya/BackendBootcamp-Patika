@@ -1,0 +1,33 @@
+﻿@model SignUpFormViewModel
+
+<form method="post" asp-controller="Auth" asp-action="SignUp" enctype="multipart/form-data">
+    @*DOSYA TAŞIYORSAN , ENCTYPE EKLEMELISIN!*@
+
+    <div asp-validation-summary="All" style="color:darkred" class="fw-bold mt-2 mb-2">
+
+    </div>
+
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" type="email" class="form-control" />
+    </div>
+
+    <div>
+        <label>Şifre</label>
+        <input asp-for=Password type="password" class="form-control" />
+    </div>
+
+    <div>
+        <label>Şifre Tekrarı</label>
+        <input asp-for="PasswordConfirm" type="password" class="form-control" />
+        
+    </div>
+
+    <div>
+        <label>Profil Fotoğrafı</label>
+        <input asp-for="Image" type="file" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-warning mt-4 fw-bold float-end">Kategori Kaydet</button>
+
+</form>

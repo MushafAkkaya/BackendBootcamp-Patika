@@ -1,0 +1,35 @@
+﻿@model PostAddViewModel
+
+<partial name="_BannerPartial" />
+
+<h3 class="text-center">Yeni Post Ekleme Formu</h3>
+
+<form method="post" asp-controller="Post" asp-action="Add">
+
+    <div asp-validation-summary="All" style="color:red; background-color:lightgray" class="fw-bold mb-2 mt-2">
+        
+    </div>
+
+
+
+    <div>
+        <label>Başlık</label>
+        <input asp-for="Title" class="form-control"/> 
+        <span asp-validation-for="Title" style="color:red" class="fw-bold mt-2"></span>
+    </div>
+
+    <div>
+        <label>Content</label>
+        <textarea asp-for=Content class="form-control"></textarea>
+        <span asp-validation-for="Content" style="color:red" class="fw-bold mt-2"></span>
+    </div>
+
+    <div>
+        <label>Kategori</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(ViewBag.Categories,"Id","Name"))"></select>
+        <span asp-validation-for="CategoryId" style="color:red" class="fw-bold mt-2"></span>
+    </div>
+
+    <button type="submit" class="btn btn-warning mt-4 fw-bold float-end">Post Gönder</button>
+
+</form>

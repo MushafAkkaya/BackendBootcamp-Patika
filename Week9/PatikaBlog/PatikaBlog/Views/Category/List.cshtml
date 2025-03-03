@@ -1,0 +1,15 @@
+﻿
+@model List<CategoryListViewModel>
+
+<div>
+
+    @foreach (var item in Model)
+    {
+        @item.Name
+        <a asp-controller="Category" asp-action="Update" asp-route-id="@item.Id">Düzenle</a>
+        <a asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+        <hr />
+    }
+  
+
+</div>

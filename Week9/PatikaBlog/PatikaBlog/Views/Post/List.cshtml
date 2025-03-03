@@ -1,0 +1,39 @@
+﻿@model List<PostListViewModel>
+
+<div class="mb-4">
+
+    <a class="btn btn-warning fw-bold" asp-controller="Category" asp-action="Add">Kategori ekle</a>
+    <a class="btn btn-warning fw-bold" asp-controller="Post" asp-action="Add">Post Ekle</a>
+
+
+</div>
+
+
+<div>
+
+    @foreach (var item in Model)
+    {
+        <div class="card mb-4">
+       
+            <div class="card-header">
+
+            <h5 class="float-start">@item.Title</h5>
+                <a class="float-end"><i class="bi bi-pen-fill"></i></a>
+                <a asp-controller="Post" asp-action="Delete" asp-route-id="@item.Id" class="float-end"><i class="bi bi-trash2-fill"></i></a>
+
+            </div>
+        
+            <div class="card-body">
+
+                <p>@item.Content</p>
+
+            </div>
+        
+        
+        
+        </div>
+
+    }
+
+
+</div>
