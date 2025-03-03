@@ -1,6 +1,6 @@
-# CrazyMusiciansWebApi
+# Crazy Musicians Web Api
 
-CrazyMusiciansWebApi is a simple ASP.NET Core Web API that manages a collection of fictional musicians. It allows users to retrieve, create, update, and delete musicians, along with searching them by name.
+Crazy Musicians Web Api is a simple ASP.NET Core Web API that manages a collection of fictional musicians. It allows users to retrieve, create, update, and delete musicians, along with searching them by name. The project also includes a model validation structure.
 
 ## Features
 - Retrieve all musicians
