@@ -14,6 +14,8 @@ var cs = builder.Configuration.GetConnectionString("default");
 builder.Services.AddDbContext<IdentityDbContext>(options =>
     options.UseSqlServer(cs));
 
+builder.Services.AddDataProtection();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
